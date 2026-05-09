@@ -14,3 +14,13 @@ ML Model which predict the risk of financial loan
 5. Provides accurate loan risk analysis
 6. User-friendly prediction interface
 7. Model saving and loading using Joblib/Pickle
+
+# Technologies Used
+1. Python
+2. Pandas
+3. NumPy
+4. Scikit-learn
+5. Matplotlib
+6. Seaborn
+7. Streamlit 
+8. Joblib
