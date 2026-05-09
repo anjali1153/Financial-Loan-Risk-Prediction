@@ -84,8 +84,8 @@ or
 based on customer financial information.
 
 # Project Goal
-T- he main goal of this project is to help financial organizations make smarter and faster loan approval decisions while minimizing financial risks and reducing loan defaults.
+- The main goal of this project is to help financial organizations make smarter and faster loan approval decisions while minimizing financial risks and reducing loan defaults.
 
 # Author
-Anjali Wable
-Data Analyst | Data Science Enthusiast | Machine Learning Developer
+- Anjali Wable
+- Data Analyst | Data Science Enthusiast | Machine Learning Developer
