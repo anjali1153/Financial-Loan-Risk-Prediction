@@ -44,3 +44,34 @@ ML Model which predict the risk of financial loan
 
 Dataset Size:
 100,000+ records
+
+# Machine Learning Workflow
+1. Data Collection :
+Collected financial loan customer data from CSV dataset.
+
+2. Data Preprocessing
+- Handling missing values
+- Encoding categorical variables
+- Feature scaling
+- Removing duplicates
+  
+3. Exploratory Data Analysis (EDA)
+- Performed analysis using:
+- Correlation heatmaps
+- Loan distribution charts
+- Risk category visualization
+  
+4. Model Building
+- Implemented classification algorithms such as:
+- Logistic Regression
+- Random Forest Classifier
+- Decision Tree Classifier
+  
+5. Model Evaluation
+- Evaluated model using:
+- Accuracy Score
+- Confusion Matrix
+- Classification Report
+
+6. Prediction System
+- Created a prediction pipeline for real-time loan risk prediction.
