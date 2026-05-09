@@ -75,3 +75,10 @@ Collected financial loan customer data from CSV dataset.
 
 6. Prediction System
 - Created a prediction pipeline for real-time loan risk prediction.
+
+# Project Output
+The model predicts:
+- Low Risk Loan Applicant
+or
+- High Risk Loan Applicant
+based on customer financial information.
