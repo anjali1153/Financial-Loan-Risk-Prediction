@@ -24,3 +24,23 @@ ML Model which predict the risk of financial loan
 6. Seaborn
 7. Streamlit 
 8. Joblib
+
+# Dataset Information
+- The dataset contains customer financial and personal details such as:
+1. loan_purpose
+2. term
+3. business_or_commercial
+4. loan_type
+5. loan_amount
+6. co-applicant_credit_type
+7. income
+8. property_value
+9. LTV
+10. dtir1
+11. credit_type
+12. Upfront_charges
+13. rate_of_interest
+14. Interest_rate_spread
+
+Dataset Size:
+100,000+ records
